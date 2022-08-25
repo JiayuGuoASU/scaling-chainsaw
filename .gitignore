@@ -23,3 +23,5 @@
 hs_err_pid*
 nodejs/service_1/node_modules/*
 .DS_Store
+java/target
+java/.idea
